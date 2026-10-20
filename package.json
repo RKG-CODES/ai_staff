@@ -1,0 +1,11 @@
+{
+  "name": "ai-workforce-v2",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Approval-gated AI agent workspace for GitHub projects",
+  "scripts": {
+    "start": "node app.mjs",
+    "test": "node --test"
+  }
+}
